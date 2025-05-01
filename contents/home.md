@@ -1,6 +1,6 @@
 
 
-[![rongjunlu]
+[![rongjunlu]]
 
 A master's degree student at the School of Management, Xiamen University. The main research directions include technological innovation, innovative networks, supply chain management, and social network analysis.
 I hope to become an influential management researcher and are constantly working hard.
