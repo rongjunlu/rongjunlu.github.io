@@ -1,12 +1,12 @@
 
 
-[![rongjunlu]]
+
 
 A master's degree student at the School of Management, Xiamen University. The main research directions include technological innovation, innovative networks, supply chain management, and social network analysis.
 I hope to become an influential management researcher and are constantly working hard.
 
 #### Email
-sli[at]17620231151259@stu.xmu.edu.cn
+Lrj[at]17620231151259@stu.xmu.edu.cn
 
 #### Education
 M.E., Management, Xiamen university, 2023—2026 (expected).\
