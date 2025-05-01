@@ -1,13 +1,3 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Xiamen University three good students, Xiamen University      2024
+- Innovation and Entrepreneurship Pioneer, Hainan University    2021
+- Third-class comprehensive scholarship, Hainan University      2020

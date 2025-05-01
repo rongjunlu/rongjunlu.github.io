@@ -8,9 +8,9 @@ He is currently pursuing a Master's Degree in Computer Science, at School of Com
 sli[at]cumt.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Management, Xiamen university, 2023—2026 (expected).\
+B.E., Financial Management, Hainan University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Innovation Management, Supply Chain Management, Social Network Analysis.
 
