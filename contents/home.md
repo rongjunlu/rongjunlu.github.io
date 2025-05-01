@@ -1,11 +1,12 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![rongjunlu]
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+A master's degree student at the School of Management, Xiamen University. The main research directions include technological innovation, innovative networks, supply chain management, and social network analysis.
+I hope to become an influential management researcher and are constantly working hard.
 
 #### Email
-sli[at]cumt.edu.cn
+sli[at]17620231151259@stu.xmu.edu.cn
 
 #### Education
 M.E., Management, Xiamen university, 2023—2026 (expected).\
@@ -14,3 +15,5 @@ B.E., Financial Management, Hainan University, 2019—2023.
 #### Research Interests
 Innovation Management, Supply Chain Management, Social Network Analysis.
 
+#### Personal interests
+Basketball, marathon, cycling.
